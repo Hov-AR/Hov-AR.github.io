@@ -4958,6 +4958,12 @@ h6 {
   color: #ff0000;
   font-size: 100px;
 }
+
+.logo-banner{
+  padding: 40px;
+  width: 400px;
+  height: 400px;
+}
 /* =================================== */
 /*  End Footer Area CSS
 /* =================================== */
